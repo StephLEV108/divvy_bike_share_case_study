@@ -21,26 +21,26 @@ missing user types.
 averaging 17.8 minutes (median 10.8). Casual rides are about 50%
 longer, but casual riders ride less than half as often.
 
-![Ride length](figures/ride_length.png)
+![Ride length](ride_length.png)
 
 **Weekly rhythm.** The two groups ride on different days. Members peak
 midweek (16.0% of their rides on Wednesday and Thursday) and dip on
 weekends. Casual riders peak on Sunday (21.1% of their rides) and
 Saturday (15.5%) - a clear leisure signature.
 
-![Day of week](figures/rides_by_day.png)
+![Day of week](rides_by_day.png)
 
 **Seasonality.** Casual demand swings 14-fold between January (24,656
 rides) and July (357,121); member demand swings less than 5-fold
 (112,933 to 520,962). Even casual ride length is seasonal: 19.0 minutes
 on average in May versus 12.5 in December.
 
-![Seasonality](figures/monthly_rides.png)
+![Seasonality](monthly_rides.png)
 
 **Bike type.** Both groups prefer electric bikes - 73.7% of casual
 rides and 68.1% of member rides.
 
-![Bike type](figures/bike_type.png)
+![Bike type](bike_type.png)
 
 ### 4. Recommendations
 1. Target casual riders on weekends, where their demand concentrates.
